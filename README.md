@@ -24,9 +24,9 @@ Google Books API search engine built in MERN Stack. Other than searching for boo
 
 
 ## Screenshots
-![](client/src/assets/img/create-user.png)
-![](client/src/assets/img/find-all-user.png)
-![](client/src/assets/img/get-all-thoughts.png)
+![](client/src/assets/img/signup.png)
+![](client/src/assets/img/search_books.png)
+![](client/src/assets/img/saved_books.png)
 
 
 ## Technologies Use
