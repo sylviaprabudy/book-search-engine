@@ -3,7 +3,7 @@
 Google Books API search engine built in MERN Stack.
 
 ### Github : https://github.com/sylviaprabudy/book-search-engine
-### Website : hhttps://book-search-99.herokuapp.com/
+### Website : https://book-search-99.herokuapp.com/
 
 
 ## Description
